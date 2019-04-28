@@ -1,3 +1,5 @@
+http://18.222.248.71
+
 
 cd ~/apps/magento/htdocs/app/code
 
